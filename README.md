@@ -9,6 +9,12 @@ Tutorials For Keras and Scikit Learn Models
 1) [Keras Example](demoKerasMNIST.py)
 2) [Scikit Example](demoSklearnMNIST.py)
 
+Sample Ouput
+------
+
+![Convergence Curve](output/sampleCurve.PNG)
+![Final Report](output/sample-report.PNG)
+
 Reference 
 ---------
 
